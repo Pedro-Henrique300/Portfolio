@@ -1,6 +1,6 @@
 # Portfólio Projetos Pessoais
 ## Apresentação
-Primeiramente seja muito bem vindo(a)! Me chamo Pedro, tenho 18 anos e tenho formação Técnica em Mecratrônica. Atualmente estou fazendo um curso de nivel superior em Automação Industrial, nesses dois cursos conheci a programação e na hora fiquei fascinado, embora esses cursos sejam voltados para a industria programar virou meu hobbie...e espero mais na frente poder trabalhar com isso! estou sempre estudando sobre linguagens e ferramentas, possuo conhecimento em:
+Primeiramente seja muito bem vindo(a)! Me chamo Pedro, tenho 18 anos e tenho formação Técnica em Mecratrônica. Atualmente estou fazendo um curso de nivel superior em Automação Industrial, nesses dois cursos conheci a programação e na hora fiquei fascinado, embora esses cursos sejam voltados para a industria programar virou minha paixão...e espero mais na frente poder trabalhar com isso! estou sempre estudando sobre linguagens e ferramentas, possuo conhecimento em:
 
 **Linguagens:**
 - **Python**
