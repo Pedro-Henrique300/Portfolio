@@ -22,7 +22,10 @@ Infelizmente por não trabalhar na área ainda não possuo projetos muito signif
 ## Python
 ### Analisando dados do Airbnb sobre o preço médio por régião na cidade de Nova York
 - Usando Python e bibliotecas como: Pandas, Matplotlib e Seaborn pude descobrir os preços médios por região em Nova York.
-  ![imagem do grafico com seu código](https://github.com/Pedro-Henrique300/Portfolio/blob/main/Imagens/Grafico%20e%20c%C3%B3digo.png?raw=true)
-  
+  <p align="center">
+  <img alt="Grafico" width="65%" src="https://github.com/Pedro-Henrique300/Portfolio/blob/main/Imagens/Grafico%20e%20c%C3%B3digo.png?raw=true">
+  </p>
 - Utilizei a biblioteca Folium para criar um mapa interativo aonde é facilmente visivel as regiões e seus preços médios.
-  ![gif do mapa](https://github.com/Pedro-Henrique300/Portfolio/blob/main/Imagens/mapa.gif?raw=true)
+  <p align="center">
+  <img alt="Grafico" width="65%" src="https://github.com/Pedro-Henrique300/Portfolio/blob/main/Imagens/mapa.gif?raw=true">
+  </p>
