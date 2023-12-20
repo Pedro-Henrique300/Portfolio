@@ -38,7 +38,7 @@ Infelizmente por não trabalhar na área ainda não possuo projetos muito signif
 - Utilizando bibliotecas como: <locale.h>, <stdlib.h> e <windows.h>, além de <stdio.h> claro, criei um programa no qual o usuário indica quantos alunos terão suas situações verificadas.
 - O usuário informa o nome, idade e as notas finais das matérias (Matemática, Português, Inglês, Ciências, História e Geografia) de cada aluno.
 - No fim, o programa mostra, além dos dados inseridos, a média final e a situação de cada aluno (Aprovado, Recuperação e Reprovado).
-- Estruturas (structs), Vetores (arrays) e Laços de repetição (for) foram utilizados.
+- Registros (structs), Vetores (arrays) e Laços de repetição (for) foram utilizados.
   <p align="center">
   <img alt="Simulador de Sistema Escolar" width="65%" src="https://github.com/Pedro-Henrique300/Portfolio/blob/main/Imagens/Simulador%20de%20Sistema%20Escolar.png?raw=true">
   </p>
